@@ -20,6 +20,7 @@
 <a href="https://twitter.com/sabuj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabuj_01" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sabuj.dutta.5454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sabuj Dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_freaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_freaken" height="30" width="40" /></a>
+  <a href="https://medium.com/@freake-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="freake-n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
