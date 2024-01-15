@@ -12,12 +12,10 @@
 
 - ⚡ Fun fact **Coders prefer dark - coz light attracts bugs!**
 
-### Blogs posts
-[![Medium](https://github-readme-medium.vercel.app/?username=freake-n)](https://medium.com/@freake-n)
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Post
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+[![Medium](https://github-readme-medium.vercel.app/?username=freake-n)](https://medium.com/@freake-n)
+
 
 
 <h3 align="left">Connect with me:</h3>
