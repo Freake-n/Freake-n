@@ -13,6 +13,7 @@
 - ⚡ Fun fact **Coders prefer dark - coz light attracts bugs!**
 
 ### Blogs posts
+[![Medium](https://github-readme-medium.vercel.app/?username=freake-n)](https://medium.com/@freake-n)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
