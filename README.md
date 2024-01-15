@@ -14,8 +14,11 @@
 
 ### Blogs posts
 [![Medium](https://github-readme-medium.vercel.app/?username=freake-n)](https://medium.com/@freake-n)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📕 Latest Blog Posts
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
